@@ -254,3 +254,83 @@ There are two kinds of expressions in Go −
   The following statement is not valid. It would generate compile-time error:
 
   10 = 20
+
+# constants
+- Constants refer to fixed values that the program may not alter during its execution. 
+  These fixed values are also called literals.
+
+- Constants can be of any of the basic data types like an integer constant, 
+  a floating constant, a character constant, or a string literal. 
+  There are also enumeration constants as well.
+
+- Constants are treated just like regular variables except that their values cannot be modified after their definition
+
+# integer literals
+- In Go, integer literals are representations of integer values in the code. 
+  They allow you to write numbers in different bases, including decimal, binary, octal, and hexadecimal.
+
+- Types of Integer Literals
+
+1. Decimal (Base 10)
+
+The most common form, where the number is represented in base 10.
+No prefix is required.
+Example: 42, 123, 0
+
+2. Binary (Base 2)
+
+Represented with a 0b or 0B prefix.
+Example: 0b1010 (binary for 10 in decimal)
+
+3. Octal (Base 8)
+
+Represented with a 0 prefix.
+Example: 075 (octal for 61 in decimal)
+
+4. Hexadecimal (Base 16)
+
+Represented with a 0x or 0X prefix.
+Uses digits 0-9 and letters A-F or a-f.
+Example: 0x2A (hexadecimal for 42 in decimal)
+
+# escape sequence
+
+When certain characters are preceded by a backslash, they will have a special meaning in Go. 
+These are known as Escape Sequence codes which are used to represent newline (\n), tab (\t), backspace, etc.
+
+\\	\ character
+\'	' character
+\"	" character
+\?	? character
+\a	Alert or bell
+\b	Backspace
+\f	Form feed
+\n	Newline
+\r	Carriage return
+\t	Horizontal tab
+\v	Vertical tab
+\ooo	Octal number of one to three digits
+\xhh . . .	Hexadecimal number of one or more digits
+
+example :
+
+package main
+
+import "fmt"
+
+func main() {
+   fmt.Printf("Hello\tWorld!")
+}
+
+# operators
+An operator is a symbol that tells the compiler to perform specific mathematical or logical manipulations. 
+Go language is rich in built-in operators and provides the following types of operators −
+
+1. Arithmetic Operators  : +,-, * , / , % ,++ , --
+2. Relational Operators  : ==, != , > , <, >= . <=
+3. Logical Operators     : && , || , !
+4. Bitwise Operators
+5. Assignment Operators  
+6. Miscellaneous Operators
+
+
