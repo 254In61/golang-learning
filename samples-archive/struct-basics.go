@@ -114,8 +114,7 @@ func main() {
     */
 
 
-    // Declaring and initializing a
-    // struct using a struct literal
+    // Declaring and initializing a struct using a struct literal
 
     p2 := Person{"Allan",42, "Male", 98.5}
     fmt.Println("Person3 :",p2)
