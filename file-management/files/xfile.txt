@@ -1,0 +1,77 @@
+allan
+albert
+stevo
+nancy
+stevo
+nancy
+albert
+stevo
+allan
+albert
+Main function ends
+displayFuncB() : nancy
+displayFuncA() : Func A Initial String...
+displayFuncB() : Func B Initial String...
+displayFuncA() : allan
+displayFuncB() : allan
+displayFuncA() : nancy
+displayFuncA() : nancy
+displayFuncB() : albert
+displayFuncA() : allan
+displayFuncB() : allan
+displayFuncA() : albert
+displayFuncB() : stevo
+displayFuncA() : stevo
+displayFuncA() : stevo
+displayFuncA() : allan
+displayFuncB() : albert
+displayFuncB() : nancy
+displayFuncB() : nancy
+displayFuncB() : stevo
+displayFuncA() : albert
+displayFuncA() : albert
+displayFuncA() : nancy
+displayFuncB() : allan
+displayFuncA() : nancy
+displayFuncB() : albert
+displayFuncB() : stevo
+displayFuncB() : nancy
+displayFuncB() : stevo
+displayFuncA() : stevo
+displayFuncA() : albert
+displayFuncA() : stevo
+displayFuncB() : albert
+Main function ends
+displayFuncA() : Func A Initial String...
+displayFuncA() : allan
+displayFuncB() : allan
+displayFuncB() : stevo
+displayFuncB() : nancy
+displayFuncA() : stevo
+displayFuncB() : albert
+displayFuncA() : albert
+displayFuncA() : allan
+displayFuncB() : Func B Initial String...
+displayFuncA() : nancy
+displayFuncB() : stevo
+displayFuncA() : albert
+displayFuncB() : albert
+displayFuncA() : stevo
+displayFuncA() : stevo
+displayFuncB() : nancy
+displayFuncB() : allan
+displayFuncA() : nancy
+displayFuncB() : stevo
+displayFuncA() : nancy
+displayFuncA() : allan
+displayFuncB() : albert
+displayFuncA() : stevo
+displayFuncB() : albert
+displayFuncA() : nancy
+displayFuncB() : nancy
+displayFuncB() : allan
+displayFuncB() : stevo
+displayFuncB() : nancy
+displayFuncA() : albert
+displayFuncA() : albert
+Main function ends
